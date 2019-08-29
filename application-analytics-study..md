@@ -15,7 +15,9 @@
   - 开源/收费：  不开源，第三方平台，免费(应用统计分析服务)
   - 平台支持： 跨平台，支持HTML5，单独集成HTML5文档
     ![TalkingData平台支持](https://www.z4a.net/images/2019/08/28/talkingData-.png)
-  - 使用/文档：[HTML5](http://doc.talkingdata.com/posts/36)
+  - 使用/文档：
+    [HTML5](http://doc.talkingdata.com/posts/36)
+    [微信小程序](http://doc.talkingdata.com/posts/484)
   
   - 客户行为分析
     页面访问、事件分析、转化漏斗、用户趋势、渠道分析、卸载分析、留存分析
@@ -26,6 +28,7 @@
         客户除了通过报表和OpenAPI获取统计数据外，还能导出原始日志数据，对您的产品进行跟详细的分析
       3. 支持自定义事件
     - 不足
+      1. HTML5平台暂未支持获取联网方式、运营商、机型信息功能
     
   - [隐私政策](https://www.talkingdata.com/privacy.jsp?languagetype=zh_cn)
   

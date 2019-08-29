@@ -1,15 +1,16 @@
-### 技术选型预研：
-#### 国内：
-  [TalkingData](https://www.talkingdata.com/products.jsp?languagetype=zh_cn)    
+## 技术选型预研：
+### 国内：
+  [TalkingData](# TalkingData)    
   [友盟+](https://web.umeng.com/main.php?spm=a211g2.181323.0.0.3cb275efYxY3Dv&c=user&a=index)  
   [Cobub Razor](http://www.cobub.com/cobub-razor/)  
   [百度统计](https://tongji.baidu.com/web/welcome/login)  
 
-#### 国外：
+### 国外：
   [Google Analytics](https://developers.google.com/analytics/?hl=zh-cn)
   
-### 具体选型调研
-#### [TalkingData](https://www.talkingdata.com/products.jsp?languagetype=zh_cn)
+## 具体选型调研
+### TalkingData
+  - [官网](https://www.talkingdata.com/products.jsp?languagetype=zh_cn)
   - 开源/收费：  不开源，第三方平台，免费(应用统计分析服务)
   - 平台支持： 跨平台，支持HTML5，单独集成HTML5文档
     ![TalkingData平台支持](https://www.z4a.net/images/2019/08/28/talkingData-.png)

@@ -2,11 +2,11 @@
 ### 国内：
   [TalkingData](#TalkingData)    
   [友盟+](#友盟+)  
-  [Cobub Razor](#Cobub Razor)  
+  [Cobub Razor](#CobubRazor)  
   [百度统计](#百度统计)  
 
 ### 国外：
-  [Google Analytics](#Google Analytics)
+  [Google Analytics](#GoogleAnalytics)
   
 ## 具体选型调研
 ### TalkingData

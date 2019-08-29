@@ -1,12 +1,12 @@
 ## 技术选型预研：
 ### 国内：
   [TalkingData](#TalkingData)    
-  [友盟+](#友盟+)  
-  [Cobub Razor](#CobubRazor)  
+  [友盟+](#友盟)  
+  [Cobub Razor](#Cobub)  
   [百度统计](#百度统计)  
 
 ### 国外：
-  [Google Analytics](#GoogleAnalytics)
+  [Google Analytics](#Google)
   
 ## 具体选型调研
 ### TalkingData

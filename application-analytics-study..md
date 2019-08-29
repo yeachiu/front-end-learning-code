@@ -28,7 +28,7 @@
     
   - [隐私政策](https://www.talkingdata.com/privacy.jsp?languagetype=zh_cn)
   
-#### 友盟+
+### 友盟+
   - [官网](https://web.umeng.com/main.php?spm=a211g2.181323.0.0.3cb275efYxY3Dv&c=user&a=index)
   - 开源/收费：  不开源，第三方平台，免费
   - 平台支持：  
@@ -71,7 +71,7 @@
 
   - [隐私政策](https://tongji.baidu.com/web/help/article?id=330&type=0)
     
-  #### CobubRazor
+  ### CobubRazor
   - [官网](http://www.cobub.com/cobub-razor/)
   - 开源/收费：  开源的移动应用统计分析系统
   - 平台支持：支持iOS / Android / Windows Phone / 混合型应用
@@ -95,7 +95,7 @@
   
   - [开源协议](http://docs.cobub.com/pages/viewpage.action?pageId=1638542)
     
-  #### GoogleAnalytics
+  ### GoogleAnalytics
   - [官网](https://developers.google.com/analytics/?hl=zh-cn)
   - 开源/收费：  不开源，有免费版
   - 平台支持： 支持WEB端

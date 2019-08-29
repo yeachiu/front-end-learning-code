@@ -66,7 +66,7 @@
     - 不足
       1. 自定义性较差
 
-  - [隐私政策]()
+  - [隐私政策](https://tongji.baidu.com/web/help/article?id=330&type=0)
     
   #### [Cobub Razor](http://www.cobub.com/cobub-razor/)
   - 开源/收费：  开源的移动应用统计分析系统
@@ -86,7 +86,7 @@
     - 不足
       1. 支持平台有限,web端和小程序版没有详细文档
   
-  - 各版本比较(开源版、商业版、大数据版)
+  - 各版本比较(开源版、商业版、大数据版)  
     ![Cobub Razor各版本比较](https://www.z4a.net/images/2019/08/29/_20190829154528.png)
   
   - [开源协议](http://docs.cobub.com/pages/viewpage.action?pageId=1638542)

@@ -11,11 +11,12 @@
 ## 具体选型调研
 ### TalkingData
   - [官网](https://www.talkingdata.com/products.jsp?languagetype=zh_cn)
+  / [demo](https://www.talkingdata.com/spa/app-analytics/)
   - 开源/收费：  不开源，第三方平台，免费(应用统计分析服务)
   - 平台支持： 跨平台，支持HTML5，单独集成HTML5文档
     ![TalkingData平台支持](https://www.z4a.net/images/2019/08/28/talkingData-.png)
   - 使用/文档：[HTML5](http://doc.talkingdata.com/posts/36)
-  - [demo](https://www.talkingdata.com/spa/app-analytics/)
+  
   - 客户行为分析
     页面访问、事件分析、转化漏斗、用户趋势、渠道分析、卸载分析、留存分析
   - 特点：  
@@ -30,6 +31,7 @@
   
 ### 友盟+
   - [官网](https://web.umeng.com/main.php?spm=a211g2.181323.0.0.3cb275efYxY3Dv&c=user&a=index)
+  / [demo](https://web.umeng.com/demo.php?spm=a211g2.11755511.1387249.2.7d2519e9xhKuKZ)
   - 开源/收费：  不开源，第三方平台，免费
   - 平台支持：  
     U-App 移动统计  
@@ -38,7 +40,7 @@
         产品介绍: 同时适用于pc页面和移动端页面，为保证统计数据的准确性，请将cnzz的统计代码放置在其他统计代码的前面，加载此代码不会影响您网页的正常显示和加载速度。
   - 使用/文档：  
     [事件统计文档](https://open.cnzz.com/a/new/trackevent/)
-  - [demo](https://web.umeng.com/demo.php?spm=a211g2.11755511.1387249.2.7d2519e9xhKuKZ)
+  
   - 特点：  
     - 优点
       1. 稳定性：实时
@@ -53,13 +55,14 @@
 
 ### 百度统计
   - [官网](https://tongji.baidu.com/web/welcome/login)
+  / [demo](https://tongji.baidu.com/web/demo/overview/index?siteId=5503017)
   - 开源/收费：  不开源，提供免费版本(站长版)
   - 平台支持：
     网站统计
     移动统计：安卓、IOS、小程序 
   - 使用/文档：  
     [使用指南](https://tongji.baidu.com/web/help/article?id=170&type=0)
-  - [demo](https://tongji.baidu.com/web/demo/overview/index?siteId=5503017)
+    
   - 客户行为分析报告
     流量分析、来源分析、访客分析、转化分析、优化分析
   - 特点：  
@@ -73,10 +76,10 @@
     
   ### CobubRazor
   - [官网](http://www.cobub.com/cobub-razor/)
+  / [demo(web版、微信小程序、IOS、Android)](https://c4j.cn/demo/)
   - 开源/收费：  开源的移动应用统计分析系统
   - 平台支持：支持iOS / Android / Windows Phone / 混合型应用
   - 使用/文档：http://docs.cobub.com/pages/viewpage.action?pageId=884751
-  - [demo(web版、微信小程序、IOS、Android)](https://c4j.cn/demo/)
   
   - 分析数据（WEB应用）：  
     流量数量指标：今日流量、趋势分析、实时访客、浏览量、访客数、访问次数、新访客数、IP数

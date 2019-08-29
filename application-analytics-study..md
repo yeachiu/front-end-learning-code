@@ -1,12 +1,12 @@
 ## 技术选型预研：
 ### 国内：
   [TalkingData](#TalkingData)    
-  [友盟+](https://web.umeng.com/main.php?spm=a211g2.181323.0.0.3cb275efYxY3Dv&c=user&a=index)  
-  [Cobub Razor](http://www.cobub.com/cobub-razor/)  
-  [百度统计](https://tongji.baidu.com/web/welcome/login)  
+  [友盟+](#友盟+)  
+  [Cobub Razor](#Cobub Razor)  
+  [百度统计](#百度统计)  
 
 ### 国外：
-  [Google Analytics](https://developers.google.com/analytics/?hl=zh-cn)
+  [Google Analytics](#Google Analytics)
   
 ## 具体选型调研
 ### TalkingData
@@ -28,7 +28,8 @@
     
   - [隐私政策](https://www.talkingdata.com/privacy.jsp?languagetype=zh_cn)
   
-#### [友盟+](https://web.umeng.com/main.php?spm=a211g2.181323.0.0.3cb275efYxY3Dv&c=user&a=index)
+#### 友盟+
+  - [官网](https://web.umeng.com/main.php?spm=a211g2.181323.0.0.3cb275efYxY3Dv&c=user&a=index)
   - 开源/收费：  不开源，第三方平台，免费
   - 平台支持：  
     U-App 移动统计  
@@ -50,7 +51,8 @@
   
   - [隐私政策](https://www.umeng.com/policy?spm=a211g2.11755511.0.0.148319e9pQ0r2r)
 
-#### [百度统计](https://tongji.baidu.com/web/welcome/login)
+### 百度统计
+  - [官网](https://tongji.baidu.com/web/welcome/login)
   - 开源/收费：  不开源，提供免费版本(站长版)
   - 平台支持：
     网站统计
@@ -69,7 +71,8 @@
 
   - [隐私政策](https://tongji.baidu.com/web/help/article?id=330&type=0)
     
-  #### [Cobub Razor](http://www.cobub.com/cobub-razor/)
+  #### Cobub Razor
+  - [官网](http://www.cobub.com/cobub-razor/)
   - 开源/收费：  开源的移动应用统计分析系统
   - 平台支持：支持iOS / Android / Windows Phone / 混合型应用
   - 使用/文档：http://docs.cobub.com/pages/viewpage.action?pageId=884751
@@ -92,7 +95,8 @@
   
   - [开源协议](http://docs.cobub.com/pages/viewpage.action?pageId=1638542)
     
-  #### [Google Analytics](https://developers.google.com/analytics/?hl=zh-cn)
+  #### Google Analytics
+  - [官网](https://developers.google.com/analytics/?hl=zh-cn)
   - 开源/收费：  不开源，有免费版
   - 平台支持： 支持WEB端
   - 使用/文档：

@@ -2,11 +2,11 @@
 ### 国内：
   [TalkingData](#TalkingData)    
   [友盟+](#友盟)  
-  [Cobub Razor](#Cobub)  
+  [Cobub Razor](#CobubRazor)  
   [百度统计](#百度统计)  
 
 ### 国外：
-  [Google Analytics](#Google)
+  [Google Analytics](#GoogleAnalytics)
   
 ## 具体选型调研
 ### TalkingData
@@ -71,7 +71,7 @@
 
   - [隐私政策](https://tongji.baidu.com/web/help/article?id=330&type=0)
     
-  #### Cobub Razor
+  #### CobubRazor
   - [官网](http://www.cobub.com/cobub-razor/)
   - 开源/收费：  开源的移动应用统计分析系统
   - 平台支持：支持iOS / Android / Windows Phone / 混合型应用
@@ -95,7 +95,7 @@
   
   - [开源协议](http://docs.cobub.com/pages/viewpage.action?pageId=1638542)
     
-  #### Google Analytics
+  #### GoogleAnalytics
   - [官网](https://developers.google.com/analytics/?hl=zh-cn)
   - 开源/收费：  不开源，有免费版
   - 平台支持： 支持WEB端

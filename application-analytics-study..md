@@ -1,12 +1,12 @@
 ### 技术选型预研：
 #### 国内：
-  [TalkingData](https://www.talkingdata.com/products.jsp?languagetype=zh_cn)  
-  [友盟+](https://web.umeng.com/main.php?spm=a211g2.181323.0.0.3cb275efYxY3Dv&c=user&a=index)
-  [Cobub Razor](http://www.cobub.com/cobub-razor/)
-  [百度统计](https://tongji.baidu.com/web/welcome/login)
+  [TalkingData](https://www.talkingdata.com/products.jsp?languagetype=zh_cn)    
+  [友盟+](https://web.umeng.com/main.php?spm=a211g2.181323.0.0.3cb275efYxY3Dv&c=user&a=index)  
+  [Cobub Razor](http://www.cobub.com/cobub-razor/)  
+  [百度统计](https://tongji.baidu.com/web/welcome/login)  
 
 #### 国外：
-  [Google Analytics]()
+  [Google Analytics](https://developers.google.com/analytics/?hl=zh-cn)
   
 ### 具体选型调研
 #### [TalkingData](https://www.talkingdata.com/products.jsp?languagetype=zh_cn)
@@ -78,7 +78,7 @@
     - 不足
       1. 支持平台有限
     
-  #### [Google Analytics]()
+  #### [Google Analytics](https://developers.google.com/analytics/?hl=zh-cn)
   - 开源/收费：  不开源，有免费版
   - 平台支持： 支持WEB端
   - 使用/文档：
